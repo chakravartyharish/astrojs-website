@@ -1,5 +1,4 @@
 
-<img src="/src/images/screen.png">
 
 ## Usage
 
